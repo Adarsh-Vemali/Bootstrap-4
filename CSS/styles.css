@@ -37,3 +37,8 @@ body{
 .navbar-dark{
   background-color: #512DA8;
 }
+
+.card-cont{
+  padding: 0px 0px 0px 25px;
+  
+}
